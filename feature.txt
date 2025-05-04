@@ -1,1 +1,1 @@
-Git supports branching to isolate new features safely.
+Git feature: Branching allows parallel development.
