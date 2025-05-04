@@ -1,1 +1,1 @@
-Git feature: Branching allows parallel development.
+Git feature --> Branching allows parallel development.
